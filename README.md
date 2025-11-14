@@ -95,3 +95,10 @@ Watch your architecture grow from a simple local agent to a production system:
 **Lab 5:** Customer-facing application with authentication
 
 Ready to build? [Start with Lab 1 →](lab-01-create-an-agent.ipynb)
+
+
+
+Resources:
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html
