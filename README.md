@@ -102,3 +102,7 @@ Resources:
 
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html
 https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html
+
+
+----
+https://github.com/awslabs/amazon-bedrock-agentcore-samples
